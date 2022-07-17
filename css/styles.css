@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background: #F8E8A6;
+}
+.links a{
+    margin-right: 20px;
+    color: green;
+}
